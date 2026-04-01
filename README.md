@@ -114,6 +114,10 @@ VibeSec provides comprehensive protection against:
 
 
 
+## 🎬 Teaching Security on Camera?
+
+If you're a security professional or developer planning to create YouTube content about secure coding, check out the [Camera Confidence Guide](https://github.com/drtamar/awesome-claude-skills/tree/main/camera-confidence-guide) — an interactive Claude skill that takes you from zero camera comfort to recording-ready with a structured 4-phase training flow.
+
 ## 🤝 Contribution
 
 If you have suggestions, improvements, or new resources to add:
