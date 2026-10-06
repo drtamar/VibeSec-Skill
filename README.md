@@ -36,21 +36,21 @@ VibeSec is an AI Skill that acts as a security-first co-pilot. It teaches your s
 
 - <details><summary>Claude Code</summary>
 
-  * Clone this repository: `git clone https://github.com/BehiSecc/VibeSec-Skill`
+  * Clone this repository: `git clone https://github.com/drtamar/VibeSec-Skill`
 
   * Add it to `~/.claude/skills` (global) or `.claude/skills` in your project directory (project-only).
 </details>
 
 - <details><summary>Cursor</summary>
 
-  * Clone this repository: `git clone https://github.com/BehiSecc/VibeSec-Skill`
+  * Clone this repository: `git clone https://github.com/drtamar/VibeSec-Skill`
 
   * Add it to `~/.cursor/skills` (global) or `.cursor/skills` in your project directory (project-only).
 </details>
 
 - <details><summary>Codex</summary>
 
-  * Clone this repository: `git clone https://github.com/BehiSecc/VibeSec-Skill`
+  * Clone this repository: `git clone https://github.com/drtamar/VibeSec-Skill`
 
   * Add it to `~/.agents/skills` (global) or `.agents/skills` in your project directory (project-only).
 
@@ -58,7 +58,7 @@ VibeSec is an AI Skill that acts as a security-first co-pilot. It teaches your s
 
 - <details><summary>Github Copilot</summary>
 
-  * Clone this repository: `git clone https://github.com/BehiSecc/VibeSec-Skill`
+  * Clone this repository: `git clone https://github.com/drtamar/VibeSec-Skill`
 
   * Add it to `~/.copilot/skills` (global) or `.github/skills` in your project directory (project-only).
 
@@ -66,7 +66,7 @@ VibeSec is an AI Skill that acts as a security-first co-pilot. It teaches your s
 
 - <details><summary>Antigravity</summary>
 
-  * Clone this repository: `git clone https://github.com/BehiSecc/VibeSec-Skill`
+  * Clone this repository: `git clone https://github.com/drtamar/VibeSec-Skill`
 
   * Add it to `~/.gemini/antigravity/skills/` (global) or `.agent/skills/` in your project directory (project-only).
 
